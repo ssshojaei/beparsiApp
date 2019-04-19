@@ -1,0 +1,4 @@
+#Fri Apr 19 14:03:53 IRDT 2019
+base.0=/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
