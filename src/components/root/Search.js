@@ -1,6 +1,5 @@
 import React from 'react'
 import { Root, Container, Content, Card, Form, Item, Icon, Input, Spinner, ListItem, Body, List, Text, Toast } from 'native-base'
-import { Actions } from 'react-native-router-flux'
 import AppHeader from '../Header';
 import AppFooter from '../Footer';
 
@@ -26,7 +25,7 @@ export default class Home extends React.Component {
                     console.log(this.state.data)
                 })
             )
-            .catch (
+            .catch (err =>
                 Toast.show({
                     text: 'نمی‌توان به میزبان درخواست داد',
                     textStyle: { fontFamily: 'Vazir'},
@@ -59,12 +58,14 @@ export default class Home extends React.Component {
                         <Spinner style={{ display: this.state.load }} />
                         <List>
                             { this.state.data.map (item => (
-                                <ListItem key={item.id}>
+                                <ListItem
+                                    key={item.id}
+                                    avatar
+                                >
                                     <Body>
                                         <Text style={{ fontFamily: 'Vazir-Bold' }}>{item.title}</Text>
                                         <Text
                                             note
-                                            numberOfLines={1}
                                             style={{ fontFamily: 'Vazir' }}
                                         >
                                             {item.sub}

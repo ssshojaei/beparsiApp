@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { Header, Left, Button, Icon, Title, Right, Body } from 'native-base'
+import { Actions } from 'react-native-router-flux';
 
 export default class AppHeader extends Component {
   render() {
@@ -10,7 +11,7 @@ export default class AppHeader extends Component {
                 <Title style={{ fontFamily: 'Vazir' }}>{this.props.title}</Title>
             </Body>
             <Right style={{ flex: 1 }}>
-                <Button transparent>
+                <Button onPress={() => Actions.drawerOpen() } transparent>
                     <Icon name='menu' />
                 </Button>
             </Right>
