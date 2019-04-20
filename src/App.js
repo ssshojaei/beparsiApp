@@ -13,6 +13,9 @@ import DrawerLayout from './components/DrawerLayout'
 import Swap from './components/root/Swap'
 import Loghat from './components/root/Loghat'
 import Splash from './components/Splash'
+import Add from './components/other/Add';
+import Source from './components/other/Source';
+import Archive from './components/other/Archive';
 
 export default class App extends React.Component {
     render() {
@@ -26,9 +29,16 @@ export default class App extends React.Component {
                             drawerPosition='right'
                         >
                             <Scene hideNavBar>
-                                <Scene key='search' component={Search} initial />
-                                <Scene key='swap' component={Swap} />
-                                <Scene key='loghat' component={Loghat} />
+                                <Scene hideNavBar>
+                                    <Scene key='search' component={Search} initial />
+                                    <Scene key='swap' component={Swap} />
+                                    <Scene key='loghat' component={Loghat} />
+                                </Scene>
+                                <Scene hideNavBar>
+                                    <Scene key='add' component={Add} />
+                                    <Scene key='source' component={Source} />
+                                    <Scene key='archive' component={Archive} />
+                                </Scene>
                             </Scene>
                         </Drawer>
                     </Scene>

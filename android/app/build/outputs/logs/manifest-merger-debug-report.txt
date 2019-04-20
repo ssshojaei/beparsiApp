@@ -5,8 +5,17 @@ INJECTED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidMa
 INJECTED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
 MERGED from [com.facebook.react:react-native:0.59.5] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8edb33327dd9b7d195731eb86bfa3dd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/4afc87bfab925e595001e57164c5195f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/bcc87ff0c432af71ae495cd734a9f1d9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/bdc441e3bcd86a489a99a53d2f4cf9af/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/39bbba91b997c8ef4c122f728a918032/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/4c6f60b0585dff15428e3c153d610208/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d296a3c052eaea557272d4c90f9dc1cd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/caca2662decb37c0bf7628571150becc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/47b7f39690064d941486e171164901ac/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2fa6116f3632a5db8cf2bfefcabc08d6/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/552459f57a53ad73e8a17303da5bee5c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cef55b51bd5ce683d307e54d42cd17ac/AndroidManifest.xml:17:1-22:12
@@ -28,10 +37,10 @@ MERGED from [com.android.support:documentfile:28.0.0] /home/ssshojaei/.gradle/ca
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a4957f38bc3483f1b294206551378378/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/bf55ce987b460fa4848e240f6a327dc3/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aa867b6f63f0eda01b7eeb769b831bf2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/17ad8bc4fc7a2bb9d508360702154d27/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cb2b8e8f45bca6e25f0a5ad14735ff22/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/23c6ae9449d2d13a2786706fae5dbfac/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d4d24cd4e0e589fde4944736140561f5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/17ad8bc4fc7a2bb9d508360702154d27/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ef8fa4440b844110ec30a09fab9f6e1d/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/1bf89effa883162d1f5ff8491ee838b2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:drawee:1.10.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/079a38d31a2ab390df6998433439a342/AndroidManifest.xml:2:1-9:12
@@ -61,14 +70,32 @@ INJECTED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/debug/AndroidM
 		ADDED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/4afc87bfab925e595001e57164c5195f/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/4afc87bfab925e595001e57164c5195f/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/bcc87ff0c432af71ae495cd734a9f1d9/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/bcc87ff0c432af71ae495cd734a9f1d9/AndroidManifest.xml:24:5-67
 	android:name
 		ADDED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
 MERGED from [com.facebook.react:react-native:0.59.5] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.59.5] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/4afc87bfab925e595001e57164c5195f/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/4afc87bfab925e595001e57164c5195f/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/bcc87ff0c432af71ae495cd734a9f1d9/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/bcc87ff0c432af71ae495cd734a9f1d9/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/bdc441e3bcd86a489a99a53d2f4cf9af/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/bdc441e3bcd86a489a99a53d2f4cf9af/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/39bbba91b997c8ef4c122f728a918032/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/39bbba91b997c8ef4c122f728a918032/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/4c6f60b0585dff15428e3c153d610208/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/4c6f60b0585dff15428e3c153d610208/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d296a3c052eaea557272d4c90f9dc1cd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d296a3c052eaea557272d4c90f9dc1cd/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-compat:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bcebd2099e589454f4c34c48935a15ee/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bcebd2099e589454f4c34c48935a15ee/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3a4047da8bd5962445178b61a7170893/AndroidManifest.xml:22:5-23:19
@@ -129,10 +156,28 @@ uses-sdk
 INJECTED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.5] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.5] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8edb33327dd9b7d195731eb86bfa3dd0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8edb33327dd9b7d195731eb86bfa3dd0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/4afc87bfab925e595001e57164c5195f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/4afc87bfab925e595001e57164c5195f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/bcc87ff0c432af71ae495cd734a9f1d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/bcc87ff0c432af71ae495cd734a9f1d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/bdc441e3bcd86a489a99a53d2f4cf9af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/bdc441e3bcd86a489a99a53d2f4cf9af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/39bbba91b997c8ef4c122f728a918032/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/39bbba91b997c8ef4c122f728a918032/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/4c6f60b0585dff15428e3c153d610208/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/4c6f60b0585dff15428e3c153d610208/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d296a3c052eaea557272d4c90f9dc1cd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d296a3c052eaea557272d4c90f9dc1cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/caca2662decb37c0bf7628571150becc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/caca2662decb37c0bf7628571150becc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/47b7f39690064d941486e171164901ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/47b7f39690064d941486e171164901ac/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2fa6116f3632a5db8cf2bfefcabc08d6/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2fa6116f3632a5db8cf2bfefcabc08d6/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/552459f57a53ad73e8a17303da5bee5c/AndroidManifest.xml:20:5-44
@@ -175,14 +220,14 @@ MERGED from [com.android.support:print:28.0.0] /home/ssshojaei/.gradle/caches/tr
 MERGED from [com.android.support:print:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/bf55ce987b460fa4848e240f6a327dc3/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aa867b6f63f0eda01b7eeb769b831bf2/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aa867b6f63f0eda01b7eeb769b831bf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/17ad8bc4fc7a2bb9d508360702154d27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/17ad8bc4fc7a2bb9d508360702154d27/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cb2b8e8f45bca6e25f0a5ad14735ff22/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/cb2b8e8f45bca6e25f0a5ad14735ff22/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/23c6ae9449d2d13a2786706fae5dbfac/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/23c6ae9449d2d13a2786706fae5dbfac/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d4d24cd4e0e589fde4944736140561f5/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d4d24cd4e0e589fde4944736140561f5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/17ad8bc4fc7a2bb9d508360702154d27/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/17ad8bc4fc7a2bb9d508360702154d27/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ef8fa4440b844110ec30a09fab9f6e1d/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ef8fa4440b844110ec30a09fab9f6e1d/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/1bf89effa883162d1f5ff8491ee838b2/AndroidManifest.xml:5:5-7:41
@@ -209,3 +254,37 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /home/ssshojaei/Projects/RN/beparsi/android/app/src/debug/AndroidManifest.xml:5:22-75
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] /home/ssshojaei/Projects/RN/beparsi/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.1.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/4afc87bfab925e595001e57164c5195f/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/bcc87ff0c432af71ae495cd734a9f1d9/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/bcc87ff0c432af71ae495cd734a9f1d9/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.1.0] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/4afc87bfab925e595001e57164c5195f/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/bdc441e3bcd86a489a99a53d2f4cf9af/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/bdc441e3bcd86a489a99a53d2f4cf9af/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/bdc441e3bcd86a489a99a53d2f4cf9af/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/bdc441e3bcd86a489a99a53d2f4cf9af/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d296a3c052eaea557272d4c90f9dc1cd/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d296a3c052eaea557272d4c90f9dc1cd/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d296a3c052eaea557272d4c90f9dc1cd/AndroidManifest.xml:24:13-58

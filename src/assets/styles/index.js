@@ -15,7 +15,7 @@ export const index = EStyleSheet.create ({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#34495e'
+        backgroundColor: '#3e50b4ff'
     },
     splashText: {
         color: 'white',
