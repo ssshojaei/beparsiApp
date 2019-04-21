@@ -12,40 +12,54 @@ export default class Swap extends React.Component {
     }
     onSubmit = () => {
         let inpText = this.state.text
-        inpText = inpText.trim()
-        Keyboard.dismiss()
-        this.setState({ load: 'flex' })
-        fetch(`http://ssshojaei.ir/api/beparsi/swap.php?text=${inpText}`)
-        .then(res =>
-            res.json().then(item =>
-                this.setState({
-                    output: item.result,
-                    load: 'none'
-                })
-            )
-        )
-        .catch(err =>
+        if (inpText !== null) {
+            inpText = inpText.trim()
+            Keyboard.dismiss()
+            this.setState({ load: 'flex' })
+            fetch(`http://ssshojaei.ir/api/beparsi/swap.php?text=${inpText}`)
+                .then(res =>
+                    res.json().then(item =>
+                        this.setState({
+                            output: item.result,
+                            load: 'none'
+                        })
+                    )
+                )
+                .catch(err =>
+                    Toast.show({
+                        text: 'نمی‌توان به میزبان درخواست داد',
+                        textStyle: { fontFamily: 'Vazir' },
+                        type: 'danger',
+                        duration: 2000
+                    })
+                )
+        }
+        else {
             Toast.show({
-                text: 'نمی‌توان به میزبان درخواست داد',
+                text: 'واژه‌ای را درون‌ریزی کنید',
                 textStyle: { fontFamily: 'Vazir' },
-                type: 'danger',
+                type: 'warning',
                 duration: 2000
             })
-        )
+        }
     }
     onCopy = () => {
-        Clipboard.setString(this.state.output)
-        Toast.show({
-            text: 'رونوشت شد',
-            textStyle: { fontFamily: 'Vazir' },
-            type: 'success'
-        })
+        if(this.state.output !== null){
+            Clipboard.setString(this.state.output)
+            Toast.show({
+                text: 'رونوشت شد',
+                textStyle: { fontFamily: 'Vazir' },
+                type: 'success'
+            })
+        }
     }
     onShare = () => {
-        Share.share({
-            message: this.state.output,
-            title: 'فرستادن به ...'
-        })
+        if(this.state.output !== null){
+            Share.share({
+                message: this.state.output,
+                title: 'فرستادن به ...'
+            })
+        }
     }
     render() {
         return (

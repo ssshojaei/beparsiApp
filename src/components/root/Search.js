@@ -1,5 +1,6 @@
 import React from 'react'
 import { Root, Container, Content, Card, Form, Item, Icon, Input, Spinner, ListItem, Body, List, Text, Toast } from 'native-base'
+import { Clipboard } from 'react-native'
 import AppHeader from '../Header';
 import AppFooter from '../Footer';
 
@@ -34,6 +35,22 @@ export default class Home extends React.Component {
                 })
             )
         }
+        else {
+            Toast.show({
+                text: 'واژه‌ای را درون‌ریزی کنید',
+                textStyle: { fontFamily: 'Vazir' },
+                type: 'danger',
+                duration: 2000
+            })
+        }
+    }
+    onCopy = sub => {
+        Clipboard.setString(sub)
+        Toast.show ({
+            text: `'${sub}' رونوشت شد`,
+            textStyle: {fontFamily: 'Vazir'},
+            type: 'success'
+        })
     }
     render() {
         return (
@@ -57,30 +74,51 @@ export default class Home extends React.Component {
                         </Card>
                         <Spinner style={{ display: this.state.load }} />
                         <List>
-                            { this.state.data.map (item => (
+                            {((this.state.data.status !== 0) ? 
+                                this.state.data.map(item => (
+                                    <ListItem
+                                        key={item.id}
+                                        avatar
+                                        onLongPress={() => this.onCopy(item.sub)}
+                                    >
+                                        <Body>
+                                            <Text style={{ fontFamily: 'Vazir-Bold' }}>{item.title}</Text>
+                                            <Text
+                                                note
+                                                style={{ fontFamily: 'Vazir' }}
+                                            >
+                                                {item.sub}
+                                            </Text>
+                                            {(item.user) ?
+                                                <Text
+                                                    note
+                                                    numberOfLines={1}
+                                                    style={{ fontFamily: 'Vazir', color: '#2196F3' }}
+                                                >
+                                                    پیشنهادی از: {item.user}
+                                                </Text> : null}
+                                        </Body>
+                                    </ListItem>
+                                ))
+                                :
                                 <ListItem
-                                    key={item.id}
                                     avatar
+                                    key={1}
                                 >
                                     <Body>
-                                        <Text style={{ fontFamily: 'Vazir-Bold' }}>{item.title}</Text>
-                                        <Text
-                                            note
-                                            style={{ fontFamily: 'Vazir' }}
-                                        >
-                                            {item.sub}
+                                        <Text style={{ fontFamily: 'Vazir-Bold'}}>
+                                            جست‌جو دستاوردی نداشت
                                         </Text>
-                                        {(item.user)?
                                         <Text
                                             note
                                             numberOfLines={1}
-                                            style={{ fontFamily: 'Vazir', color: '#2196F3' }}
+                                            style={{ fontFamily: 'Vazir' }}
                                         >
-                                            پیشنهادی از: {item.user}
-                                        </Text> : null}
+                                            واژه‌ی دیگری را جست‌جو کنید
+                                        </Text>
                                     </Body>
                                 </ListItem>
-                            ))}
+                            )}
                         </List>
                     </Content>
                     <AppFooter active='search' />

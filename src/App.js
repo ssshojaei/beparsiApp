@@ -16,6 +16,7 @@ import Splash from './components/Splash'
 import Add from './components/other/Add';
 import Source from './components/other/Source';
 import Archive from './components/other/Archive';
+import Donate from './components/other/Donate';
 
 export default class App extends React.Component {
     render() {
@@ -34,11 +35,10 @@ export default class App extends React.Component {
                                     <Scene key='swap' component={Swap} />
                                     <Scene key='loghat' component={Loghat} />
                                 </Scene>
-                                <Scene hideNavBar>
-                                    <Scene key='add' component={Add} />
-                                    <Scene key='source' component={Source} />
-                                    <Scene key='archive' component={Archive} />
-                                </Scene>
+                                <Scene hideNavBar key='add' component={Add} />
+                                <Scene hideNavBar key='source' component={Source} />
+                                <Scene hideNavBar key='archive' component={Archive} />
+                                <Scene hideNavBar key='donate' component={Donate} />
                             </Scene>
                         </Drawer>
                     </Scene>

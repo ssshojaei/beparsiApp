@@ -104,7 +104,7 @@ https://myket.ir/app/ir.ssshojaei.beparsi
                                 </View>
                             </Right>
                         </ListItem>
-                        <ListItem style={{ backgroundColor: '#0966af', borderRadius: 5 }} icon onPress={() => alert()}>
+                        <ListItem style={{ backgroundColor: '#0966af', borderRadius: 5 }} icon onPress={() => Actions.jump('donate')}>
                             <Left />
                             <Body>
                                 <Text style={{ fontFamily: 'Vazir', color: '#ffffff' }}>هم‌یاری</Text>

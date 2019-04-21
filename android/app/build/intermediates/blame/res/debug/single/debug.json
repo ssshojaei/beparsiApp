@@ -69,7 +69,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_up.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/anim/catalyst_slide_up.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -225,7 +225,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/layout/redbox_view.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/layout/redbox_view.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -293,7 +293,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_down.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/anim/catalyst_slide_down.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
@@ -321,7 +321,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_out.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/anim/catalyst_push_up_out.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -390,6 +390,10 @@
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/bdc441e3bcd86a489a99a53d2f4cf9af/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/home/ssshojaei/Projects/RN/beparsi/android/app/src/main/res/mipmap-ldpi/ic_launcher.png"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -517,7 +521,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/layout_redbox_item_title.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/layout/redbox_item_title.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -573,7 +577,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/layout_redbox_item_frame.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/layout/redbox_item_frame.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -629,7 +633,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/anim/catalyst_fade_out.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -809,7 +813,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/layout_fps_view.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/layout/fps_view.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/layout/fps_view.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
@@ -1157,7 +1161,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/layout_dev_loading_view.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/layout/dev_loading_view.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -1281,7 +1285,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/xml_rn_dev_preferences.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/xml/rn_dev_preferences.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/xml/rn_dev_preferences.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
@@ -1329,7 +1333,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_in.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/anim/catalyst_fade_in.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
@@ -1389,7 +1393,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable_redbox_top_border_background.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/drawable/redbox_top_border_background.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/drawable/redbox_top_border_background.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
@@ -1789,7 +1793,7 @@
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
-        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/0b190f04f72c5fcf7ba32f28e7a68e6a/res/anim/catalyst_push_up_in.xml"
+        "source": "/home/ssshojaei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.6.aar/1e5d63fa93963befe78508caba26697c/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/home/ssshojaei/Projects/RN/beparsi/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
