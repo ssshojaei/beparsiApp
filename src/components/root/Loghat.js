@@ -2,7 +2,8 @@ import React from 'react'
 import { Container, Content, Root, Toast, Card, Form, Item, Icon, Input, Spinner, CardItem, Body, Text } from 'native-base'
 import AppHeader from '../Header';
 import AppFooter from '../Footer';
-const tokenTmp = '66659.E04JoP8Yswl4GHqtTLa3Gxo0P9EVrcX5c1OBQXAj'
+// const tokenTmp = 
+import tokenTmp from '../../TOKEN'
 
 export default class Loghat extends React.Component {
     state = {
